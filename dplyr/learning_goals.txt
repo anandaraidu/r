@@ -1,0 +1,8 @@
+0.Name/rename the columns
+1.Selecting rows based on multiple column values
+This is the most key sub-setting requirement.
+2.Adding a column
+3.Adding a row
+4.Edit all values which matched certian criteria.
+5.Delete a row if particular criteria was met.
+6.Delete a column 
